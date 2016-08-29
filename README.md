@@ -36,7 +36,7 @@ Route::redirect('/contact_us', '/contact');
 
 ### Setting status code
 
-Optionally, you can pass a third argument to `Route::redirect()` which will set the status code when redirecting.
+Optionally, you can pass a third argument to `Route::redirect()` which will set the status code when redirecting. If you do not specify a status code, the package will use `301` as the status code.
 
 ```php
 Route::redirect('/contact_us', '/contact', 302);
