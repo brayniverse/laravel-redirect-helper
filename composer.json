@@ -1,0 +1,34 @@
+{
+    "name": "brayniverse/laravel-redirect-helper",
+    "description": "Syntactic sugar for those occasions when you want to redirect from an old route to a new route.",
+    "keywords": ["laravel", "routing", "helper"],
+    "homepage": "https://github.com/brayniverse/laravel-redirect-helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher L Bray",
+            "email": "chris@brayniverse.com",
+            "homepage": "http://brayniverse.com"
+        }
+    ],
+    "require": {
+        "php": "^5.5.9 || ^7.0",
+        "illuminate/support": "5.1.* || 5.2.* || 5.3.*",
+        "illuminate/http": "5.1.* || 5.2.* || 5.3.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8 || ^5.0",
+        "orchestra/testbench": "~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Brayniverse\\LaravelRedirectHelper\\": "src/"
+        },
+        "classmap": [
+            "tests"
+        ]
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit tests"
+    }
+}
