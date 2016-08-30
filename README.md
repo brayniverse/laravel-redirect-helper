@@ -1,6 +1,7 @@
 # Laravel redirect helper
 
-![StyleCI](https://styleci.io/repos/66860219/shield)
+[![StyleCI](https://styleci.io/repos/66860219/shield?style=flat)](https://styleci.io/repos)
+[![Build Status](https://travis-ci.org/brayniverse/laravel-redirect-helper.svg)](https://travis-ci.org/brayniverse/laravel-redirect-helper)
 
 Syntactic sugar for those occasions when you want to redirect from an old route to a new route.
 
