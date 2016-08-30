@@ -1,5 +1,7 @@
 # Laravel redirect helper
 
+![StyleCI](https://styleci.io/repos/66860219/shield)
+
 Syntactic sugar for those occasions when you want to redirect from an old route to a new route.
 
 This package adds a `Route::redirect()` helper method so you don't have to create a closure for each redirect.
