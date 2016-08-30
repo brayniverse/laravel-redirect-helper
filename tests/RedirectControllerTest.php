@@ -1,5 +1,9 @@
 <?php
 
+namespace Tests;
+
+use Illuminate\Support\Facades\Route;
+
 class RedirectControllerTest extends TestCase
 {
     public function test_redirect_uses_301_status_by_default()
