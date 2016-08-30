@@ -2,8 +2,8 @@
 
 [![Build Status](https://travis-ci.org/brayniverse/laravel-redirect-helper.svg)](https://travis-ci.org/brayniverse/laravel-redirect-helper)
 [![Total Downloads](https://poser.pugx.org/brayniverse/laravel-redirect-helper/d/total.svg)](https://packagist.org/brayniverse/laravel-redirect-helper)
-[![Latest Stable Version](https://poser.pugx.org/brayniverse/laravel-redirect-helper/v/stable.svg)](https://packagist.org/packages/laravel/scout)
-[![Latest Unstable Version](https://poser.pugx.org/brayniverse/laravel-redirect-helper/v/unstable.svg)](https://packagist.org/packages/laravel/scout)
+[![Latest Stable Version](https://poser.pugx.org/brayniverse/laravel-redirect-helper/v/stable.svg)](https://packagist.org/packages/brayniverse/laravel-redirect-helper)
+[![Latest Unstable Version](https://poser.pugx.org/brayniverse/laravel-redirect-helper/v/unstable.svg)](https://packagist.org/packages/brayniverse/laravel-redirect-helper)
 [![License](https://poser.pugx.org/brayniverse/laravel-redirect-helper/license.svg)](https://packagist.org/packages/brayniverse/laravel-redirect-helper)
 
 Syntactic sugar for those occasions when you want to redirect from an old route to a new route.
