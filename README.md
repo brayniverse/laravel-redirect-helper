@@ -1,7 +1,7 @@
 # Laravel redirect helper
 
 [![Build Status](https://travis-ci.org/brayniverse/laravel-redirect-helper.svg)](https://travis-ci.org/brayniverse/laravel-redirect-helper)
-[![Total Downloads](https://poser.pugx.org/brayniverse/laravel-redirect-helper/d/total.svg)](https://packagist.org/brayniverse/laravel-redirect-helper)
+[![Total Downloads](https://poser.pugx.org/brayniverse/laravel-redirect-helper/d/total.svg)](https://packagist.org/packages/brayniverse/laravel-redirect-helper)
 [![Latest Stable Version](https://poser.pugx.org/brayniverse/laravel-redirect-helper/v/stable.svg)](https://packagist.org/packages/brayniverse/laravel-redirect-helper)
 [![Latest Unstable Version](https://poser.pugx.org/brayniverse/laravel-redirect-helper/v/unstable.svg)](https://packagist.org/packages/brayniverse/laravel-redirect-helper)
 [![License](https://poser.pugx.org/brayniverse/laravel-redirect-helper/license.svg)](https://packagist.org/packages/brayniverse/laravel-redirect-helper)
