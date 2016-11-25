@@ -9,7 +9,7 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
     public function register()
     {
         Route::macro('redirect', function ($url, $destination, $status = 301) {
-            Route::any($url, '\Brayniverse\LaravelRedirectHelper\RedirectController@handle')
+            return Route::any($url, '\Brayniverse\LaravelRedirectHelper\RedirectController@handle')
                 ->defaults('redirection', compact('destination', 'status'));
         });
     }
