@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests;
+namespace Brayniverse\LaravelRedirectHelper\Tests;
 
 abstract class TestCase extends \Orchestra\Testbench\TestCase
 {

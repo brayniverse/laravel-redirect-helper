@@ -27,7 +27,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\": "tests/"
+            "Brayniverse\\LaravelRedirectHelper\\Tests\\": "tests/"
         }
     },
     "scripts": {
