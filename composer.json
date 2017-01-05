@@ -26,9 +26,9 @@
         }
     },
     "autoload-dev": {
-        "psr-4": {
-            "Brayniverse\\LaravelRedirectHelper\\Tests\\": "tests/"
-        }
+        "classmap": [
+            "tests/TestCase.php"
+        ]
     },
     "scripts": {
         "test": "vendor/bin/phpunit tests"
